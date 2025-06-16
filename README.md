@@ -9,9 +9,9 @@ A passionate Full Stack Developer who lives for the thrill of turning ideas into
 * 🌍  I'm based in Louisiana
 * ✉️  You can contact me at [vallabhapuramdinesh@gmail.com](mailto:vallabhapuramdinesh@gmail.com)
 * 👀 Currently looking for full-time positions as a full-stack developer, available to start immediately and authorized to work in the United States.
-* 🤝 Open to working as a Full-Stack Developer, Frontend Developer, Backend Developer, Java Developer.
+* 🤝 Open to working as a Full-Stack Developer, Frontend Developer, Backend Developer, Java Developer, .Net/c# Developer.
 * 🔭 I completed my Master's in Computer Science from the University Of Louisiana at Lafayette. 
-* 🌱 I have over 3 years of experience as a full-stack developer, specializing in  Java Spring Boot, ANgular, microservices, React.js and Node.js.
+* 🌱 I have over 3 years of experience as a full-stack developer, specializing in  Java, Spring Boot, .Net, Asp.Net, Angular, microservices, and Node.js.
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/srisaidinesh-vallabhapuram/" target="_blank">
