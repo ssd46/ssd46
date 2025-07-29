@@ -6,7 +6,7 @@ Full Stack Developer (Java and .Net)
 
 A passionate Full Stack Developer who lives for the thrill of turning ideas into reality through code. For me, development isn’t just a job—it’s a craft, a personal mission to create meaningful, user-focused solutions that leave a mark. What sets me apart is an unrelenting hunger to grow. New technologies aren’t hurdles—they’re opportunities to push boundaries and deliver cutting-edge results. With grit and creativity, I tackle challenges head-on, crafting solutions that don’t just work—they inspire. I'm an individual who codes with heart, fully committed to creating digital experiences that resonate and make a difference
 
-* 🌍  I'm based in Louisiana
+
 * ✉️  You can contact me at [vallabhapuramdinesh@gmail.com](mailto:vallabhapuramdinesh@gmail.com)
 * 👀 Currently looking for full-time positions as a full-stack developer, available to start immediately and authorized to work in the United States.
 * 🤝 Open to working as a Full-Stack Developer, Frontend Developer, Backend Developer, Java Developer, .Net/c# Developer.
